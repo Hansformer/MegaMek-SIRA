@@ -1,0 +1,9 @@
+{
+  "preferences" : [ {
+    "class" : "megamek.client.ui.dialogs.helpDialogs.BoardEditorHelpDialog",
+    "elements" : [ {
+      "element" : "BoardEditorHelpDialog",
+      "value" : "673|1049|347|263|false"
+    } ]
+  } ]
+}

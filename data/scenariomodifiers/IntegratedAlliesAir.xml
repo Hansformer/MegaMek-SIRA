@@ -49,10 +49,13 @@
                 </failureEffect>
 		<failureEffect>
                     <effectType>ContractScoreUpdate</effectType>
-                    <effectScaling>Fixed</effectScaling>
+                    <effectScaling>Inverted</effectScaling>
                     <howMuch>-1</howMuch>
                 </failureEffect>
             </failureEffects>
+            <additionalDetails>
+		<additionalDetail>Each integrated force unit irrevocably destroyed will reduce contract score by 1.</additionalDetail>
+            </additionalDetails>
             <description>Preserve 100% of the following force(s) and unit(s):</description>
             <destinationEdge>NONE</destinationEdge>
             <objectiveCriterion>Preserve</objectiveCriterion>

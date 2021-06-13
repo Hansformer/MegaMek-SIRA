@@ -29,7 +29,6 @@
                 <syncDeploymentType>None</syncDeploymentType>
                 <useArtillery>false</useArtillery>
 	</forceDefinition>
-	<modifierName>Evacuate</modifierName>
 	<objectives>
         <objective>
             <associatedForceNames>
@@ -42,20 +41,10 @@
                     <effectScaling>Fixed</effectScaling>
                     <howMuch>1</howMuch>
                 </successEffect>
-		<successEffect>
-                    <effectType>FacilityRemoved</effectType>
-                    <effectScaling>Fixed</effectScaling>
-                    <howMuch>1</howMuch>
-                </successEffect>
             </successEffects>
             <failureEffects>
                 <failureEffect>
                     <effectType>ScenarioDefeat</effectType>
-                    <effectScaling>Fixed</effectScaling>
-                    <howMuch>1</howMuch>
-                </failureEffect>
-		<failureEffect>
-                    <effectType>FacilityRemoved</effectType>
                     <effectScaling>Fixed</effectScaling>
                     <howMuch>1</howMuch>
                 </failureEffect>

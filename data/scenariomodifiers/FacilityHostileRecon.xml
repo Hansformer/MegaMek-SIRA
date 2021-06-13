@@ -1,14 +1,6 @@
 <AtBScenarioModifier>
-	<additionalBriefingText>Conduct detailed scans of buildings at the designated locations.</additionalBriefingText>
 	<benefitsPlayer>false</benefitsPlayer>
 	<eventTiming>PostForceGeneration</eventTiming>
-	<linkedModifiers>
-		<entry>
-            		<key>FacilityHostileCapture.xml</key>
-            		<value>If captured, our forces can conduct their scans at will.</value>
-		</entry>
-	</linkedModifiers>
-	<modifierName>Recon</modifierName>
 	<objectives>
         <objective>
             <associatedForceNames>
@@ -40,7 +32,7 @@
             <percentage>1</percentage>
             <timeLimitAtMost>false</timeLimitAtMost>
             <timeLimitScaleFactor>2</timeLimitScaleFactor>
-            <timeLimitType>None</timeLimitType>
+            <timeLimitType>ScaledToPrimaryUnitCount</timeLimitType>
         </objective>
         </objectives>
 </AtBScenarioModifier>

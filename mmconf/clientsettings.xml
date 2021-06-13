@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<MegaMekSettings>
+    <store name="ClientSettings">
+        <preference name="megamek.megamek.metaservername" value="https://api.megamek.org/servers/announce"/>
+        <preference name="LastPlayerName" value="Kirov"/>
+        <preference name="LastServerPass" value="69"/>
+    </store>
+    <store name="megamek.client.ui.swing.ButtonOrderPreferences"/>
+    <store name="megamek.client.ui.swing.GUIPreferences">
+        <preference name="WindowPosX" value="106"/>
+        <preference name="WindowPosY" value="31"/>
+        <preference name="CustomUnitDialogSizeWidth" value="733"/>
+        <preference name="WindowSizeWidth" value="2178"/>
+        <preference name="ImageChooserSizeHeight" value="589"/>
+        <preference name="ImageChooserSizeWidth" value="760"/>
+        <preference name="ImageChooserSplitPos" value="126"/>
+        <preference name="MapZoomIndex" value="3"/>
+        <preference name="MechSelectorPosX" value="1001"/>
+        <preference name="CustomUnitDialogSizeHeight" value="724"/>
+        <preference name="MechSelectorPosY" value="319"/>
+        <preference name="WindowSizeHeight" value="1270"/>
+    </store>
+</MegaMekSettings>

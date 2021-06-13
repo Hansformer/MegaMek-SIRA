@@ -540,6 +540,7 @@ Condor (3054)|
 Condor (3079)|
 Confederate (2602)|
 Confederate (2602) (Mech)|
+Danais (2720)|
 Excalibur (2786)|
 Excalibur (3056)|
 Fortress (2613)|
@@ -548,7 +549,6 @@ Fury (2638)|
 Fury (3056)|
 Gazelle (2531)|
 Gazelle (3055)|
-Gazelle (Heavy Vehicle)|
 Hamilcar (3054)|
 Hamilcar (3084)|
 Hannibal (3055)|
@@ -584,6 +584,7 @@ Titan (2647b)|
 Triumph (2593)|
 Triumph (2593b)|
 Triumph (3057)|
+Trojan (Blockade Runner) (2720)|
 Union (2708)|
 Union (2708b)|
 Union (2709) (Combined Arms)|
@@ -4646,8 +4647,6 @@ Marauder II MAD-6M|
 Marauder IIC 2|
 Marauder IIC 3|
 Marauder IIC 4|
-Marauder IIC 5|
-Marauder IIC 6|
 Marauder IIC 7|
 Marauder MAD-5L|
 Marauder MAD-5M|
@@ -5068,7 +5067,7 @@ Sunder SD1-OG|
 Tarantula ZPH-5A|
 Targe TRG-3M|
 Templar TLR1-OR|
-Thunder Fox TFT-F11|
+Thunder Fox TDF-F11|
 Thunderbolt TDR-10S|
 Ti Ts'ang TSG-10L|
 Titan TI-1Aj|
@@ -5237,7 +5236,7 @@ Omni-Corvis B|
 Omni-Corvis Prime|
 Phoenix Hawk PXH-1-EC|
 Pulverizer PUL-3R|
-Pulverizer (Standard)|
+Pulverizer|
 Redback|
 Spartan C|
 Starslayer STY-2C-EC|
@@ -5361,44 +5360,6 @@ Viper (Black Python) 2|
 Viper (Black Python) 5|
 White Raven 2|
 White Raven (Standard)|
-Daishi (Dire Wolf) E|
-Daishi (Dire Wolf) T|
-Daishi (Dire Wolf) X|
-Firestorm (Standard)|
-Galahad (Glass Spider) 2|
-Glass Spider (Galahad) 4|
-Galahad (Glass Spider) (Standard)|
-Hunchback IIC 5|
-Piranha 5|
-Stinger C 2|
-Stinger C|
-Stinger STG-3Gb|
-Stinger STG-4G|
-Stinger STG-5G|
-Stinger STG-5M|
-Stinger STG-6G|
-Stinger STG-6M|
-Stinger STG-6R|
-Supernova 5|
-Black Hawk (Nova) G|
-Black Hawk (Nova) I|
-Black Hawk (Nova) J|
-Black Hawk (Nova) K|
-Black Hawk (Nova) L|
-Black Hawk (Nova) R|
-Black Hawk (Nova) T|
-Exterminator EXT-7X|
-Griffin IIC 2|
-Griffin IIC 9|
-Griffin IIC (Standard)|
-Lightning LHN-C5|
-Ostsol C|
-Ostsol OTL-5M|
-Ostsol OTL-8E|
-Ostsol OTL-8E3|
-Ostsol OTL-8F|
-Sentinel STN-6S|
-Thug THG-13U|
 Behemoth (Stone Rhino) 7|
 Behemoth (Stone Rhino) 8|
 Bushwacker BSW-X4|
@@ -5457,6 +5418,7 @@ Wasp WSP-3M|
 Wasp WSP-3W|
 Wasp WSP-4W|
 Wasp WSP-5A|
+Catapult CPLT-6K|
 Catapult CPLT-K6|
 Crab CRB-54|
 Hammerhead (Standard)|
@@ -5481,11 +5443,14 @@ Linebacker F|
 Linebacker G|
 Linebacker I|
 Linebacker T|
+Marauder (Red Hunter-3146)|
 Marauder Bounty Hunter 3015|
 Marauder Bounty Hunter 3044|
 Marauder Bounty Hunter 3138|
 Marauder C|
 Marauder IIC 10|
+Marauder IIC 5|
+Marauder IIC 6|
 Marauder IIC 8|
 Marauder IIC 9|
 Marauder IIC (Standard)|
@@ -5510,10 +5475,10 @@ Koshi (Mist Lynx) M|
 Koshi (Mist Lynx) N|
 Koshi (Mist Lynx) T|
 Ryoken (Stormcrow) I|
-Ryoken (Stormcrow) J|
-Ryoken (Stormcrow) K|
-Ryoken (Stormcrow) P|
-Ryoken (Stormcrow) T|
+Stormcrow (Ryoken) J|
+Stormcrow (Ryoken) K|
+Stormcrow (Ryoken) P|
+Stormcrow (Ryoken) T|
 Vixen (Incubus) 2|
 Vixen (Incubus) 3|
 Vixen (Incubus) 7|
@@ -5585,60 +5550,6 @@ Valkyrie VLK-QD|
 Valkyrie VLK-QD6|
 Valkyrie VLK-QDD|
 Pendragon PDG-3R|
-Burrower DTM-1 MiningMech|
-Burrower DTM-1M MiningMech MOD|
-Buster BC XXI-M HaulerMech MOD|
-Carbine CON-9M Karenna|
-Carbine CON-9M-J ConstructionMech MOD|
-Carbine CON-9M-JB ConstructionMech MOD|
-Centurion CN9-H2 MilitiaMech|
-Centurion CN9-H2H MilitiaMech|
-Centurion CN9-H3 MilitiaMech|
-Crosscut ED-X4M-A LoggerMech MOD|
-Crosscut ED-X4M-E LoggerMech MOD|
-Crosscut ED-X4M-L LoggerMech MOD|
-Deep Lord MilitiaMech RCL-Z1M-B|
-Demeter WLD-1 AgroMech|
-Demeter WLD-1-M AgroMech MOD|
-DemolitionMech WI-DMM MOD|
-Dig Lord RCL-4M MiningMech MOD|
-Dig Lord RCL-4M-B MiningMech MOD|
-Exo HaulerMech HMX-1|
-Exo HaulerMech HMX-2|
-Exo HaulerMech HMX-3|
-Exo HaulerMech HMX-3M|
-Firebee WI-WAM MilitiaMech|
-Ground Pounder DVM-2 MiningMech|
-Ground Pounder DVM-2M MiningMech MOD|
-Guard SecurityMech GS-107X|
-Guard SecurityMech GS-54|
-Gulon SolahmaMech C|
-Gulon MiningMech GLN-1A|
-Gulon SecurityMech GLN-1B|
-Harvester HVR-199 AgroMech|
-Harvester HVR-199M AgroMech MOD|
-Harvester HVR-199M-A AgroMech MOD|
-Harvester HVR-199M-B AgroMech MOD|
-Harvester HVR-199M-M AgroMech MOD|
-Heavy Forester HFL-1 LoggerMech|
-Heavy Forester HFL-1M LoggerMech MOD|
-Heavy Lifter HCL-1M CargoMech MOD|
-Heavy Lifter HCL-1MM MilitiaMech|
-Inquisitor ITW-80 SecurityMech|
-Inquisitor ITW-85 SecurityMech|
-MuckRaker GMMM-2 MiningMech|
-MuckRaker GMMM-2M MiningMech MOD|
-MuckRaker GMMM-2M-B MiningMech MOD|
-Opossum SalvageMech OPO-2|
-Opossum SalvageMech OPO-3 MOD|
-Pacifier SecurityMech CCU-36|
-Pacifier SecurityMech CCU-40|
-Pompier PoliceMech GM-4P|
-St. Florian FLN-366 FireMech|
-St. Florian FLN-366-M FireMech MOD|
-StrongArm SC CV ConstructionMech|
-StrongArm SC CV-M ConstructionMech MOD|
-StrongArm SC CVI ConstructionMech|
 Mad Cat (Timber Wolf) (Bounty Hunter)|
 Rampage RMP-2G|
 Rampage RMP-4G|
@@ -5677,8 +5588,6 @@ Wasp LAM WSP-105|
 Wasp LAM WSP-105M|
 Wasp LAM WSP-110|
 Yurei S-YR-1LAM|
-Bull Shark BSK-M3|
-Bull Shark BSK-MAZ|
 Corsair COR-5R|
 Corsair COR-5T|
 Corsair COR-6R|
@@ -5817,10 +5726,6 @@ Wolf Trap (Tora) WFT-1 (Daitama)|
 Templar III TLR2-J 'Arthur'|
 Centurion CN10-J|
 Centurion CN10-W|
-Gyrfalcon 5|
-Thunder Stallion 4|
-SuburbanMech UM-R100|
-SuburbanMech UM-R90|
 Nightstar NSR-9J (Holt)|
 Avatar AV1-OBLO|
 Doloire DLR-OBLO|
@@ -5880,7 +5785,7 @@ Crosscut ED-X4D DemolitionMech|
 Crosscut ED-X4M LoggerMech MOD|
 Crosscut ED-X4X LoggerMech|
 Crosscut ED-X5M LoggerMech MOD|
-Crosscut ED-X5M-B DemolitionMech MOD|
+Crosscut ED-X5M-B LoggerMech MOD|
 Dig King RCL-1 MiningMech MOD|
 Dig King RCL-1 MiningMech (Standard)|
 Dig Lord RCL-4 MiningMech|
@@ -5896,7 +5801,7 @@ Lumberjack LM5/M|
 Marco MR-6 ExplorerMech|
 Marco MR-7 ExplorerMech|
 Peacekeeper PK-6 SecurityMech|
-Peacemaker PM-6 PoliceMech (Standard)|
+Peacemaker PM6 PoliceMech (Standard)|
 Pompier Firemech GM-3CD|
 Pompier Firemech GM-3HT|
 Pompier Firemech GM-3A|
@@ -6048,20 +5953,6 @@ Talon TLN-5VNO|
 Merlin MLN-SX|
 Spindrift Aquatic SecurityMech SDT-1|
 Whitworth WTH-5S|
-Aquagladius AQS-5 MAM|
-Carbine CON-9M-D ConstructionMech MOD|
-Crosscut IIC SolahmaMech|
-Daedalus DAD-DX|
-Gauss-Buster MilitiaMech|
-OmniMarauder MAD-BR-OA|
-OmniMarauder MAD-BR-O|
-Phoenix Hawk PXH-99|
-Porcupine PRC-3N|
-Scourge SCG-WX1|
-Uni ATAE-70 ArtilleryMech|
-Valkyrie VLK-QD5|
-Volkh VKH-68|
-Wasp WSP-3X|
 Cougar XR|
 Ha Otoko-HR (Standard)|
 Kraken-XR (Standard)|
@@ -7401,25 +7292,6 @@ Sleipnir APC Tank (SRM)|
 Sleipnir APC Tank (Standard)|
 Vargr APC Tank (LRM)|
 Vargr APC Tank (Standard)|
-Hoverbike (Laser)|
-Hoverbike (MG)|
-Hoverbike|
-Minigun Cycle (SRM)|
-Minigun Cycle|
-Monocycle|
-Scout ATV|
-TrackBike|
-Trike|
-Prime Mover (Original)|
-Prime Mover (Succession Wars)|
-Prime Mover|
-Sturmvogel Gunship WiGE|
-Sturmvogel Maritime Patrol WiGE (LB-10X)|
-Sturmvogel Maritime Patrol WiGE (LB-2X)|
-Sturmvogel Maritime Patrol WiGE|
-Wheeled Scout (Camera)|
-Wheeled Scout (Sensors)|
-Wheeled Scout|
 Brunel Dump Truck (AC)|
 Brunel Dump Truck (LRM)|
 Burke Defense Tank (Royal)|

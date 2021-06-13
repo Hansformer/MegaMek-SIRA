@@ -1,4 +1,3 @@
-<!-- This is *all* possible scenario modifiers -->
 <scenarioModifierManifest>
 	<modifiers>
 		<modifier>
@@ -8,19 +7,7 @@
 			EnemyAirSupportBombers.xml
 		</modifier>
 		<modifier>
-			OverwhelmingEnemyAirReinforcements.xml
-		</modifier>
-		<modifier>
 			EnemyReinforcements.xml
-		</modifier>
-		<modifier>
-			OverwhelmingEnemyGroundReinforcements.xml
-		</modifier>
-		<modifier>
-			EnemyTankReinforcements.xml
-		</modifier>
-		<modifier>
-			EnemyMechReinforcements.xml
 		</modifier>
 		<modifier>
 			EnemyArty.xml
@@ -30,9 +17,6 @@
 		</modifier>
 		<modifier>
 			LocalGarrisonTurrets.xml
-		</modifier>
-		<modifier>
-			EnemyTurrets.xml
 		</modifier>
 		<modifier>
 			Rookies.xml
@@ -46,9 +30,6 @@
 		<modifier>
 			GoodEquipment.xml
 		</modifier>
-		<modifier>
-			BadEvent.xml
-		</modifier>
 		<!--modifier> 
 			Need ability to allow player to specifically deploy dropships
 			HotDrop.xml
@@ -60,9 +41,6 @@
 			EnemyDropship.xml
 		</modifier>
 		<modifier>
-			GroundedEnemyDropship.xml
-		</modifier>
-		<modifier>
 			GoodIntel.xml
 		</modifier>
 		<modifier>
@@ -70,18 +48,6 @@
 		</modifier>
 		<modifier>
 			BadIntelAir.xml
-		</modifier>
-		<modifier>
-			PiratesIncomingAir.xml
-		</modifier>
-		<modifier>
-			PiratesIncomingGround.xml
-		</modifier>
-		<modifier>
-			PiratesPresentAir.xml
-		</modifier>
-		<modifier>
-			PiratesPresentGround.xml
 		</modifier>
 		<!--modifier>
 			Need "special duel flag".
@@ -112,15 +78,6 @@
 		<modifier>
 			AlliedReinforcements.xml
 		</modifier>
-		<modifier>
-			AlliedTankReinforcements.xml
-		</modifier>
-		<modifier>
-			AlliedTurrets.xml
-		</modifier>
-		<modifier>
-			AlliedMechReinforcements.xml
-		</modifier>
 		<!--modifier>
 			Need campaign state
 			Need way to change rat for opfor
@@ -138,9 +95,6 @@
 		</modifier-->
 		<modifier>
 			SearchAndRescue.xml
-		</modifier>
-		<modifier>
-			GoodEvent.xml
 		</modifier>
 
 		<!-- Fixed scenario modifiers suitable for specific scenario types go here -->
@@ -168,6 +122,12 @@
 		<modifier>
 			EnemyArtyGarrison.xml
 		</modifier>
+		<modifier>
+			ExtraGoodEvent.xml
+		</modifier>
+		<modifier>
+			ExtraBadEvent.xml
+		</modifier>
 
 		<!-- Facility objective modifiers -->
 		<modifier>
@@ -175,12 +135,6 @@
 		</modifier>
 		<modifier>
 			FacilityHostileCapture.xml
-		</modifier>
-		<modifier>
-			FacilityHostileDestroyNonWin.xml
-		</modifier>
-		<modifier>
-			FacilityHostileCaptureNonWin.xml
 		</modifier>
 		<modifier>
 			FacilityHostileEngage.xml
@@ -201,6 +155,11 @@
 		<modifier>
 			FacilityAlliedEvac.xml
 		</modifier>
+
+		<!-- FacilityHostileMechBase.xml -->
+		<!-- FacilityHostileTankBase.xml -->
+		<!-- FacilityHostileAirBase.xml -->
+		<!-- FacilityHostileSupplyDepot.xml -->
 
 		<!-- Scenario modifiers that come from campaign state go here -->
 		<modifier>

@@ -2,13 +2,6 @@
 	<additionalBriefingText>Destroy or cripple all of the designated turrets.</additionalBriefingText>
 	<benefitsPlayer>false</benefitsPlayer>
 	<eventTiming>PreForceGeneration</eventTiming>
-	<linkedModifiers>
-		<entry>
-            		<key>FacilityHostileCapture.xml</key>
-            		<value>Capturing this facility will allow it to be destroyed as well.</value>
-		</entry>
-	</linkedModifiers>
-	<modifierName>Destroy</modifierName>
 	<objectives>
         <objective>
             <associatedForceNames>
@@ -21,11 +14,6 @@
                     <effectScaling>Fixed</effectScaling>
                     <howMuch>2</howMuch>
                 </successEffect>
-		<successEffect>
-			<effectType>FacilityRemoved</effectType>
-			<effectScaling>Fixed</effectScaling>
-			<howMuch>1</howMuch>
-		</successEffect>
             </successEffects>
             <failureEffects>
                 <failureEffect>
@@ -35,9 +23,9 @@
                 </failureEffect>
             </failureEffects>
             <additionalDetails/>
-            <description>Destroy or force the withdrawal of all of the following force(s) and unit(s) to render the facility inoperative:</description>
+            <description>Destroy all of the following force(s) and unit(s):</description>
             <destinationEdge>NONE</destinationEdge>
-            <objectiveCriterion>ForceWithdraw</objectiveCriterion>
+            <objectiveCriterion>Destroy</objectiveCriterion>
             <percentage>100</percentage>
             <timeLimit>0</timeLimit>
             <timeLimitAtMost>true</timeLimitAtMost>

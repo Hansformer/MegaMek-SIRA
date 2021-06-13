@@ -3,8 +3,6 @@
     <name>Space - Blockade Run Escort</name>
     <shortBriefing>Break enemy blockade.</shortBriefing>
     <detailedBriefing>Escort an allied dropship attempting to run an enemy blockade.</detailedBriefing>
-    <isHostileFacility>false</isHostileFacility>
-    <isAlliedFacility>false</isAlliedFacility>
     <mapParameters>
         <allowedTerrainTypes/>
         <allowRotation>false</allowRotation>
@@ -21,7 +19,7 @@
             <value>
                 <actualDeploymentZone>-1</actualDeploymentZone>
                 <allowAeroBombs>false</allowAeroBombs>
-                <allowedUnitType>9</allowedUnitType>
+                <allowedUnitType>-3</allowedUnitType>
                 <arrivalTurn>0</arrivalTurn>
                 <canReinforceLinked>true</canReinforceLinked>
                 <contributesToBV>true</contributesToBV>
@@ -43,7 +41,6 @@
                 <generationOrder>1</generationOrder>
                 <maxWeightClass>4</maxWeightClass>
                 <minWeightClass>0</minWeightClass>
-                <objectiveLinkedForces/>
                 <retreatThreshold>50</retreatThreshold>
                 <startingAltitude>0</startingAltitude>
                 <syncDeploymentType>None</syncDeploymentType>
@@ -63,7 +60,7 @@
                 <contributesToUnitCount>true</contributesToUnitCount>
                 <deployOffboard>false</deployOffboard>
                 <deploymentZones/>
-                <destinationZone>5</destinationZone>
+                <destinationZone>4</destinationZone>
                 <fixedUnitCount>1</fixedUnitCount>
                 <forceAlignment>1</forceAlignment>
                 <forceMultiplier>1.0</forceMultiplier>
@@ -72,7 +69,6 @@
                 <generationOrder>4</generationOrder>
                 <maxWeightClass>4</maxWeightClass>
                 <minWeightClass>1</minWeightClass>
-                <objectiveLinkedForces/>
                 <retreatThreshold>50</retreatThreshold>
                 <startingAltitude>0</startingAltitude>
                 <syncDeploymentType>SameEdge</syncDeploymentType>
@@ -102,7 +98,6 @@
                 <generationOrder>5</generationOrder>
                 <maxWeightClass>4</maxWeightClass>
                 <minWeightClass>1</minWeightClass>
-                <objectiveLinkedForces/>
                 <retreatThreshold>50</retreatThreshold>
                 <startingAltitude>0</startingAltitude>
                 <syncDeploymentType>SameEdge</syncDeploymentType>
