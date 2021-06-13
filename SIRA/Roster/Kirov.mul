@@ -3,7 +3,7 @@
 <unit version="0.49.1" >
 
 		<entity chassis="Black Knight" model="BL-6-KNT Grim Squire" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="false" externalId="04c91f84-6720-4960-9ac1-c38dd5d202b5" quirks="command_mech">
-			<pilot size="1" name="Arkadiy Krilov" nick="Kirov" gender="FEMALE" gunnery="3" piloting="4" portraitCat="SIRA/" portraitFile="Arkadiy Krilov.jpg" externalId="fd892a3f-b9a3-48fd-8324-5f7197e0501e" ejected="false" advantages="aptitude_gunnery::sniper::gunnery_ballistic" edge="edge 4::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion" autoeject="true"/>
+			<pilot size="1" name="Arkadiy Krilov" nick="Kirov" gender="MALE" gunnery="3" piloting="4" portraitCat="SIRA/" portraitFile="Arkadiy Krilov.jpg" externalId="fd892a3f-b9a3-48fd-8324-5f7197e0501e" ejected="false" advantages="aptitude_gunnery::sniper::gunnery_ballistic" edge="edge 4::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion" autoeject="true"/>
       The first slot in a location is at index="1".
 			<location index="1"> Center Torso
 				<armor points="24"/>
