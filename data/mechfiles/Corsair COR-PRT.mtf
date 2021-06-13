@@ -1,0 +1,155 @@
+Version:1.0
+Corsair
+COR-PRT
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3029
+Rules Level:4
+
+Mass:95
+Engine:380 Fusion Engine(IS)
+Structure:IS Standard
+Myomer:Standard
+
+Heat Sinks:12 Single
+Walk MP:4
+Jump MP:0
+
+Armor:Standard(Inner Sphere)
+LA Armor:32
+RA Armor:32
+LT Armor:30
+RT Armor:30
+CT Armor:48
+HD Armor:9
+LL Armor:40
+RL Armor:40
+RTL Armor:10
+RTR Armor:10
+RTC Armor:12
+
+Weapons:9
+Rifle (Cannon, Heavy), Right Arm
+Medium Laser, Right Arm
+Medium Laser, Left Torso
+Medium Laser, Left Torso
+Machine Gun, Right Torso
+Machine Gun, Right Torso
+Machine Gun, Right Torso
+Machine Gun, Right Torso
+Machine Gun, Head
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+Rifle (Cannon, Heavy)
+Rifle (Cannon, Heavy)
+Rifle (Cannon, Heavy)
+Medium Laser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Medium Laser
+Medium Laser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+Machine Gun
+Machine Gun
+Machine Gun
+Machine Gun
+IS Machine Gun Ammo - Half
+IS Ammo Heavy Rifle
+IS Ammo Heavy Rifle
+IS Ammo Heavy Rifle
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+Machine Gun
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

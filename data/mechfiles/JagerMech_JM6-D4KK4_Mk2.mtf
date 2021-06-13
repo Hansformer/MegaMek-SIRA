@@ -1,0 +1,151 @@
+Version:1.0
+JagerMech
+JM6-D4KK4
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3050
+Source:SIRA Inc. Custom 3050
+Rules Level:2
+
+Mass:65
+Engine:260 Fusion Engine(IS)
+Structure:IS Standard
+Myomer:Standard
+
+Heat Sinks:12 Single
+Walk MP:4
+Jump MP:0
+
+Armor:Ferro-Fibrous(Inner Sphere)
+LA Armor:20
+RA Armor:20
+LT Armor:22
+RT Armor:22
+CT Armor:31
+HD Armor:9
+LL Armor:29
+RL Armor:29
+RTL Armor:7
+RTR Armor:7
+RTC Armor:10
+
+Weapons:4
+Ultra AC/5, Left Arm
+Ultra AC/5, Right Arm
+Medium Pulse Laser, Right Torso
+Medium Pulse Laser, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISUltraAC5
+ISUltraAC5
+ISUltraAC5
+ISUltraAC5
+ISUltraAC5
+IS Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+IS Ferro-Fibrous
+ISUltraAC5
+ISUltraAC5
+ISUltraAC5
+ISUltraAC5
+ISUltraAC5
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+IS Ferro-Fibrous
+ISCASE
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+IS Ultra AC/5 Ammo
+IS Ultra AC/5 Ammo
+IS Ultra AC/5 Ammo
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+ISMediumPulseLaser
+ISMediumPulseLaser
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+
+Head:
+Life Support
+Sensors
+Cockpit
+IS Ferro-Fibrous
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+
