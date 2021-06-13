@@ -1,0 +1,151 @@
+Version:1.0
+Rifleman
+RFL-3D
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3026
+Source:TRO 3039 - Succession Wars
+Rules Level:1
+
+Mass:60
+Engine:240 Fusion Engine(IS)
+Structure:IS Standard
+Myomer:Standard
+
+Heat Sinks:10 Single
+Walk MP:4
+Jump MP:0
+
+Armor:Standard(Inner Sphere)
+LA Armor:15
+RA Armor:15
+LT Armor:17
+RT Armor:17
+CT Armor:23
+HD Armor:7
+LL Armor:19
+RL Armor:19
+RTL Armor:6
+RTR Armor:6
+RTC Armor:8
+
+Weapons:4
+AC/10, Left Arm
+Small Laser, Left Arm
+AC/10, Right Arm
+Small Laser, Right Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Autocannon/10
+Autocannon/10
+Autocannon/10
+Autocannon/10
+Autocannon/10
+Autocannon/10
+Autocannon/10
+Small Laser
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Autocannon/10
+Autocannon/10
+Autocannon/10
+Autocannon/10
+Autocannon/10
+Autocannon/10
+Autocannon/10
+Small Laser
+-Empty-
+-Empty-
+
+Left Torso:
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Torso:
+IS Ammo AC/10
+IS Ammo AC/10
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+
