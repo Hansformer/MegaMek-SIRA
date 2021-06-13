@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.46.0" >
+
+		<entity chassis="Rifleman" model="RFL-3E" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="true" externalId="a9ac963a-d97e-4ca7-9ba0-a697d5866ff9" quirks="anti_air" camoCategory="SIRA/" camoFileName="SIRA_Camo_BETA.png">
+			<pilot size="1" name="Arkadiy Krilov" nick="Kirov" gunnery="3" piloting="4" portraitCat="SIRA/" portraitFile="Arkadiy Krilov.jpg" externalId="fd892a3f-b9a3-48fd-8324-5f7197e0501e" ejected="false" advantages="sniper::gunnery_ballistic" edge="edge 2::edge_when_headhit::edge_when_tac::edge_when_ko::edge_when_explosion" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="1" type="IS Ammo AC/10" shots="10"/>
+				<slot index="2" type="IS Ammo AC/10" shots="10"/>
+				<slot index="3" type="IS Ammo AC/10" shots="10"/>
+			</location>
+			<location index="4"> Right Arm
+         <slot index="3" type="Autocannon/10" quirks="accurate" isDestroyed="false"/>
+         <slot index="4" type="Autocannon/10" quirks="accurate" isDestroyed="false"/>
+         <slot index="5" type="Autocannon/10" quirks="accurate" isDestroyed="false"/>
+         <slot index="6" type="Autocannon/10" quirks="accurate" isDestroyed="false"/>
+         <slot index="7" type="Autocannon/10" quirks="accurate" isDestroyed="false"/>
+         <slot index="8" type="Autocannon/10" quirks="accurate" isDestroyed="false"/>
+         <slot index="9" type="Autocannon/10" quirks="accurate" isDestroyed="false"/>
+			</location>
+			<location index="5"> Left Arm
+         <slot index="3" type="Autocannon/10" quirks="accurate" isDestroyed="false"/>
+         <slot index="4" type="Autocannon/10" quirks="accurate" isDestroyed="false"/>
+         <slot index="5" type="Autocannon/10" quirks="accurate" isDestroyed="false"/>
+         <slot index="6" type="Autocannon/10" quirks="accurate" isDestroyed="false"/>
+         <slot index="7" type="Autocannon/10" quirks="accurate" isDestroyed="false"/>
+         <slot index="8" type="Autocannon/10" quirks="accurate" isDestroyed="false"/>
+         <slot index="9" type="Autocannon/10" quirks="accurate" isDestroyed="false"/>
+			</location>
+		</entity>
+
+</unit>
