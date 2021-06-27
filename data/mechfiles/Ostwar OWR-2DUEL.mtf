@@ -1,0 +1,156 @@
+Version:1.0
+Ostwar
+OWR-2DUEL
+
+Config:Biped
+TechBase:Inner Sphere
+Era:2860
+Source:Succession Wars
+Rules Level:2
+
+Mass:65
+Engine:195 Fusion Engine(IS)
+Structure:IS Endo Steel
+Myomer:Standard
+
+Heat Sinks:16 Single
+Walk MP:3
+Jump MP:0
+
+Armor:Standard(Inner Sphere)
+LA Armor:18
+RA Armor:18
+LT Armor:23
+RT Armor:23
+CT Armor:30
+HD Armor:9
+LL Armor:28
+RL Armor:28
+RTL Armor:7
+RTR Armor:7
+RTC Armor:9
+
+Weapons:8
+AC/10, Right Torso
+SRM 6, Right Arm
+SRM 6, Left Arm
+Medium Laser, Left Torso
+Medium Laser, Left Torso
+Medium Laser, Right Arm
+LRM 5, Right Torso
+Medium Laser, Left Arm
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+SRM 6
+SRM 6
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+Heat Sink
+Medium Laser
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+IS Endo Steel
+IS Endo Steel
+SRM 6
+SRM 6
+IS Ammo SRM-6
+Medium Laser
+Heat Sink
+Heat Sink
+-Empty-
+
+Left Torso:
+Medium Laser
+Medium Laser
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Ammo SRM-6
+ISCASE
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+Heat Sink
+
+Right Torso:
+Autocannon/10
+Autocannon/10
+Autocannon/10
+Autocannon/10
+Autocannon/10
+Autocannon/10
+Autocannon/10
+IS Endo Steel
+IS Ammo LRM-5
+LRM 5
+ISCASE
+IS Endo Steel
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Heat Sink
+Heat Sink
+
+Head:
+Life Support
+Sensors
+Cockpit
+Heat Sink
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Ammo AC/10
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Ammo AC/10
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+imagefile:.\data\images\fluff\mech\Ostwar_XTROPrimV1.jpg
+

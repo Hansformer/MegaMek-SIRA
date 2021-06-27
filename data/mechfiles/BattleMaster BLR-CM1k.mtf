@@ -1,0 +1,155 @@
+Version:1.0
+BattleMaster
+BLR-CM1k
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3049
+Source:TRO 3039 - Succession Wars
+Rules Level:3
+
+Mass:85
+Engine:340 Fusion Engine(IS)
+Structure:IS Endo Steel
+Myomer:Standard
+
+Heat Sinks:15 Double
+Walk MP:4
+Jump MP:0
+
+Armor:Standard(Inner Sphere)
+LA Armor:25
+RA Armor:25
+LT Armor:24
+RT Armor:24
+CT Armor:39
+HD Armor:9
+LL Armor:30
+RL Armor:30
+RTL Armor:10
+RTR Armor:10
+RTC Armor:14
+
+Weapons:8
+ER Large Laser, Left Arm
+ER Large Laser, Right Arm
+C3 Computer [Master], Left Torso
+Medium Laser, Left Torso
+Medium Laser, Left Torso
+Medium Laser, Right Torso
+Medium Laser, Right Torso
+SRM 6, Right Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+IS Endo Steel
+IS Endo Steel
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISERLargeLaser
+ISERLargeLaser
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+Hand Actuator
+IS Endo Steel
+IS Endo Steel
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISDoubleHeatSink
+ISERLargeLaser
+ISERLargeLaser
+-Empty-
+
+Left Torso:
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+ISC3MasterUnit
+ISC3MasterUnit
+ISC3MasterUnit
+ISC3MasterUnit
+ISC3MasterUnit
+Medium Laser
+Medium Laser
+-Empty-
+
+Right Torso:
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+Medium Laser
+Medium Laser
+SRM 6
+SRM 6
+IS Ammo SRM-6 Narc-capable
+ISCASE
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+-Empty-
+-Empty-
+
+Head:
+Life Support
+Sensors
+Cockpit
+-Empty-
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+IS Endo Steel
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

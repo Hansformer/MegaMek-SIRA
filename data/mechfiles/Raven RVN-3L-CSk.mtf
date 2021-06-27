@@ -1,0 +1,152 @@
+Version:1.0
+Raven
+RVN-3L-CSk
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3050
+Source:3rd SoL SF
+Rules Level:3
+
+Mass:35
+Engine:210 XL Engine(IS)
+Structure:IS Standard
+Myomer:Standard
+
+Heat Sinks:11 Single
+Walk MP:6
+Jump MP:0
+
+Armor:Ferro-Fibrous(Inner Sphere)
+LA Armor:8
+RA Armor:8
+LT Armor:9
+RT Armor:9
+CT Armor:12
+HD Armor:9
+LL Armor:10
+RL Armor:10
+RTL Armor:4
+RTR Armor:4
+RTC Armor:6
+
+Weapons:5
+Narc, Left Arm
+SRM 6, Right Torso
+Small Pulse Laser, Left Torso
+Small Pulse Laser, Right Torso
+Small Pulse Laser, Center Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+ISNarcBeacon
+ISNarcBeacon
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+IS Ferro-Fibrous
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISGuardianECMSuite
+ISGuardianECMSuite
+IS Ammo SRM-6 Narc-capable
+ISNarc Pods
+ISNarc Pods
+ISCASE
+ISSmallPulseLaser
+-Empty-
+-Empty-
+
+Right Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+SRM 6
+SRM 6
+ISSmallPulseLaser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+ISC3SlaveUnit
+ISSmallPulseLaser
+
+Head:
+Life Support
+Sensors
+Cockpit
+Heat Sink
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+

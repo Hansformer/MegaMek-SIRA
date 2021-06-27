@@ -1,0 +1,155 @@
+Version:1.0
+Marauder
+MAD-SD4 "Thing What Kicks"
+
+Config:Biped
+TechBase:Inner Sphere
+Era:3029
+Source:TRO 3039 - Succession Wars
+Rules Level:3
+
+Mass:75
+Engine:300 Fusion Engine(IS)
+Structure:IS Endo Steel
+Myomer:Standard
+
+Heat Sinks:22 Single
+Walk MP:4
+Jump MP:0
+
+Armor:Standard(Clan)
+LA Armor:24
+RA Armor:24
+LT Armor:26
+RT Armor:26
+CT Armor:36
+HD Armor:9
+LL Armor:32
+RL Armor:32
+RTL Armor:6
+RTR Armor:6
+RTC Armor:10
+
+Weapons:8
+PPC, Left Arm
+PPC, Right Arm
+Medium Laser, Left Arm
+Medium Laser, Right Arm
+Medium Laser, Left Torso
+Medium Laser, Right Torso
+Small Laser, Head
+Flamer, Left Torso
+
+Left Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+PPC
+PPC
+PPC
+Medium Laser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Arm:
+Shoulder
+Upper Arm Actuator
+Lower Arm Actuator
+PPC
+PPC
+PPC
+Medium Laser
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Torso:
+Heat Sink
+Heat Sink
+Medium Laser
+Flamer
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+-Empty-
+
+Right Torso:
+Heat Sink
+Heat Sink
+Medium Laser
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+IS Endo Steel
+-Empty-
+-Empty-
+
+Center Torso:
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Gyro
+Gyro
+Gyro
+Gyro
+Fusion Engine
+Fusion Engine
+Fusion Engine
+Heat Sink
+Heat Sink
+
+Head:
+Life Support
+Sensors
+Cockpit
+Small Laser
+Sensors
+Life Support
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Left Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+Right Leg:
+Hip
+Upper Leg Actuator
+Lower Leg Actuator
+Foot Actuator
+Heat Sink
+Heat Sink
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+-Empty-
+
+
