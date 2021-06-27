@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.46.0" >
+
+		<entity chassis="Dervish" model="DV-6M" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="true" externalId="f4a47761-e366-4168-ba37-b65c34c9fc3e" quirks="easy_maintain::hyper_actuator" camoCategory="SIRA/" camoFileName="SIRA_Camo_CONDOTIERRE.png">
+			<pilot size="1" name="Greta Vollinger" nick="Breaker" gunnery="4" piloting="3" portraitCat="SIRA/" portraitFile="Condotierre01.jpg" externalId="f6d99cfe-ca94-4e06-ba73-7f98e4f2493f" ejected="false" advantages="tactical_genius" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="3" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="3" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+			<location index="4"> Right Arm
+				<slot index="6" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="6" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+		</entity>
+
+		<entity chassis="Griffin" model="GRF-1S" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="true" externalId="ede8def1-b76f-445d-a308-96d76055e196" quirks="battle_fists_la::battle_fists_ra::rugged_1::ubiquitous_is::ubiquitous_clan" camoCategory="SIRA/" camoFileName="SIRA_Camo_CONDOTIERRE.png">
+			<pilot size="1" name="Frederick Prost" nick="Surf" gunnery="3" piloting="5" portraitCat="SIRA/" portraitFile="Condotierre02.jpg" externalId="4313805d-35ba-46ad-958f-33865f0f8f6b" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="3" type="IS Ammo LRM-5" shots="24"/>
+			</location>
+			<location index="4"> Right Arm
+         <slot index="5" type="Large Laser" quirks="jettison_capable" isDestroyed="false"/>
+         <slot index="6" type="Large Laser" quirks="jettison_capable" isDestroyed="false"/>
+			</location>
+		</entity>
+
+		<entity chassis="Wyvern" model="WVE-5N" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="true" externalId="f7b06fd1-a00f-4f61-959d-fb60645f10d4" quirks="rugged_1" camoCategory="SIRA/" camoFileName="SIRA_Camo_CONDOTIERRE.png">
+			<pilot size="1" name="Sabine Cassiodorus" nick="Rocket" gunnery="4" piloting="4" portraitCat="SIRA/" portraitFile="Condotierre06.jpg" externalId="7480c88c-98ba-4231-b2a9-32de8b042f1e" ejected="false" advantages="jumping_jack" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="6" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="4" type="IS Ammo LRM-10" shots="12"/>
+			</location>
+		</entity>
+
+		<entity chassis="Awesome" model="AWS-8R" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="true" externalId="b1dd062e-76a0-4ebb-bee3-4aadc90b7ce7" quirks="battle_fists_la" camoCategory="SIRA/" camoFileName="SIRA_Camo_CONDOTIERRE.png">
+			<pilot size="1" name="Redmond Frost" nick="Sharky" gunnery="3" piloting="5" portraitCat="SIRA/" portraitFile="Condotierre04.jpg" externalId="a3543025-6de2-4b5b-b246-303ef323545e" ejected="false" advantages="gunnery_laser" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="11" type="IS Ammo LRM-15" shots="8"/>
+				<slot index="12" type="IS Ammo LRM-15" shots="8"/>
+			</location>
+		</entity>
+
+		<entity chassis="Mongoose" model="MON-67" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="true" externalId="3fa2a39e-9755-44dc-8667-dca09f214c89" quirks="command_mech::easy_pilot" camoCategory="SIRA/" camoFileName="SIRA_Camo_CONDOTIERRE.png">
+			<pilot size="1" name="Patricia Bishop" nick="Church" gunnery="4" piloting="3" portraitCat="SIRA/" portraitFile="Condotierre09.jpg" externalId="eb357305-a381-468a-b8fc-31d58ff18822" ejected="false" advantages="aptitude_piloting" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="0"> Head
+         <slot index="4" type="Small Laser" quirks="stable_weapon" isDestroyed="false"/>
+			</location>
+			<location index="1"> Center Torso
+         <slot index="11" type="Medium Laser" quirks="stable_weapon" isDestroyed="false"/>
+			</location>
+		</entity>
+
+		<entity chassis="Highlander" model="HGN-733" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="true" externalId="a9250a20-64ee-4f53-8c60-a2678f6b1bc6" quirks="command_mech::cowl::reinforced_legs::difficult_eject" camoCategory="SIRA/" camoFileName="SIRA_Camo_CONDOTIERRE.png">
+			<pilot size="1" name="Marcus Pulowski" nick="Cracker" gunnery="4" piloting="4" portraitCat="SIRA/" portraitFile="Condotierre05.jpg" externalId="cc7af8af-d42b-4695-a04b-bb33484060d1" ejected="false" advantages="some_like_it_hot" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="4" type="IS Ammo AC/10" shots="10"/>
+				<slot index="5" type="IS Ammo AC/10" shots="10"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="7" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="8" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="9" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="10" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="11" type="IS Ammo LRM-20" shots="6"/>
+			</location>
+		</entity>
+
+		<entity chassis="Jenner" model="JR7-F" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="true" externalId="6b37104d-5437-4d3e-b9c1-82ba2c23856c" quirks="no_arms::no_twist" camoCategory="SIRA/" camoFileName="SIRA_Camo_CONDOTIERRE.png">
+			<pilot size="1" name="Devon Hertz-Kline" nick="Zilla" gunnery="4" piloting="4" portraitCat="SIRA/" portraitFile="Condotierre07.jpg" externalId="52030fc4-79ee-4e15-9bd9-c138e88a8f8e" ejected="false" autoeject="true"/>
+		</entity>
+
+		<entity chassis="Blackjack" model="BJ-1" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="true" externalId="25463901-3ace-430e-8798-c9aa0b888a57" quirks="bad_rep_is" camoCategory="SIRA/" camoFileName="SIRA_Camo_CONDOTIERRE.png">
+			<pilot size="1" name="Llewellyn Nolan" nick="Iron" gunnery="3" piloting="4" portraitCat="SIRA/" portraitFile="Condotierre03.jpg" externalId="a68702db-d2da-4fc1-84ad-bca04a851843" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="11" type="IS Ammo AC/2" shots="45"/>
+			</location>
+		</entity>
+
+		<entity chassis="Kintaro" model="KTO-18" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="true" externalId="f12e1157-1bce-442e-a51c-6c77a2a1c50f" quirks="rugged_1" camoCategory="SIRA/" camoFileName="SIRA_Camo_CONDOTIERRE.png">
+			<pilot size="1" name="Nathan Bullock" nick="Spirit" gunnery="4" piloting="3" portraitCat="SIRA/" portraitFile="Condotierre11.jpg" externalId="86634f97-4ef9-45ac-aaf0-dd81f1ec15f0" ejected="false" advantages="weapon_specialist SRM 6" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="3" type="IS Ammo SRM-6" shots="15"/>
+				<slot index="4" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="1" type="IS Ammo LRM-5" shots="24"/>
+				<slot index="2" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+		</entity>
+
+		<entity chassis="Wolverine" model="WVR-6R" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="true" externalId="6de596ed-9308-4999-98ef-1abe444d9852" quirks="command_mech::ext_twist::imp_com::pro_actuator::ubiquitous_is::ubiquitous_clan::cramped_cockpit" camoCategory="SIRA/" camoFileName="SIRA_Camo_CONDOTIERRE.png">
+			<pilot size="1" name="William Rodelov" nick="Rodeo" gunnery="4" piloting="4" portraitCat="SIRA/" portraitFile="Condotierre12.png" externalId="2b0d8bce-62dd-4d5d-be7d-11c7c8f1e1c9" ejected="false" advantages="weathered" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="3" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<location index="4"> Right Arm
+         <slot index="5" type="Autocannon/5" quirks="jettison_capable" isDestroyed="false"/>
+         <slot index="6" type="Autocannon/5" quirks="jettison_capable" isDestroyed="false"/>
+         <slot index="7" type="Autocannon/5" quirks="jettison_capable" isDestroyed="false"/>
+         <slot index="8" type="Autocannon/5" quirks="jettison_capable" isDestroyed="false"/>
+				<slot index="9" type="IS Ammo AC/5" shots="20"/>
+			</location>
+		</entity>
+
+		<entity chassis="Crab" model="CRB-20" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="true" externalId="edc69121-def0-42f6-896e-13ff87de1b7a" quirks="easy_maintain" camoCategory="SIRA/" camoFileName="SIRA_Camo_CONDOTIERRE.png">
+			<pilot size="1" name="Criss von Stuttgart" nick="Imago" gunnery="4" piloting="4" portraitCat="SIRA/" portraitFile="condotierre10.png" externalId="249da541-e209-49ae-b7db-8117f6ccccdd" ejected="false" autoeject="true"/>
+		</entity>
+
+		<entity chassis="Mercury" model="MCY-99" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="true" externalId="3743a2a2-825e-40cd-bad0-d0d9e6d88255" quirks="easy_maintain::no_twist" camoCategory="SIRA/" camoFileName="SIRA_Camo_CONDOTIERRE.png">
+			<pilot size="1" name="Olivia Burmann" nick="Olive" gunnery="4" piloting="3" portraitCat="SIRA/" portraitFile="Condotierre08.jpg" externalId="6e2ff103-04bd-48e4-bb5f-ede4cf845247" ejected="false" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="0"> Head
+         <slot index="4" type="Small Laser" quirks="mod_weapons" isDestroyed="false"/>
+			</location>
+			<location index="1"> Center Torso
+         <slot index="12" type="Small Laser" quirks="mod_weapons" isDestroyed="false"/>
+			</location>
+			<location index="3"> Left Torso
+         <slot index="1" type="Medium Laser" quirks="mod_weapons" isDestroyed="false"/>
+			</location>
+			<location index="4"> Right Arm
+         <slot index="5" type="Medium Laser" quirks="mod_weapons" isDestroyed="false"/>
+			</location>
+		</entity>
+
+</unit>

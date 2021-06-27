@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<unit version="0.48.0" >
+
+		<entity chassis="Black Knight" model="BL-7-KNT" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="true" externalId="5b2ca35c-2005-4335-b5f8-26fa5bbb6feb" quirks="command_mech" camoCategory="SIRA/" camoFileName="SIRA_Camo_Standard.png">
+			<pilot size="1" name="Keller Voss" nick="Nonce" gender="FEMALE" gunnery="3" piloting="4" portraitCat="SIRA/" portraitFile="Keller Voss.jpg" externalId="65fbf662-f048-4b44-b7e3-db6e00928332" ejected="false" advantages="multi_tasker" autoeject="true"/>
+			<Game id="11"/>
+		</entity>
+
+		<entity chassis="Lynx" model="LNX-8Q" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="true" externalId="e65e81d7-fa15-44fa-8067-3cc097fb6d20" quirks="multi_trac" camoCategory="SIRA/" camoFileName="SIRA_Camo_Elite.png">
+			<pilot size="1" name="Hela Von Assad" nick="Mastari" gender="FEMALE" gunnery="3" piloting="3" portraitCat="SIRA/" portraitFile="Hela Val Assad.jpg" externalId="8f165128-d3fa-4108-8da6-f6a08956c02f" ejected="false" advantages="weapon_specialist Large Laser" autoeject="true"/>
+			<Game id="13"/>
+		</entity>
+
+		<entity chassis="Cicada" model="CDA-3C" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="true" externalId="0242b19f-8f37-4972-9471-024f3612756b" quirks="no_arms::no_twist" camoCategory="SIRA/" camoFileName="SIRA_Camo_GAMMA.png">
+			<pilot size="1" name="J.R. Tuesday" nick="Wold" gender="FEMALE" gunnery="3" piloting="4" portraitCat="SIRA/" portraitFile="J.R. Tuesday.png" externalId="3be93e81-564b-434c-bbc0-b0f4afb53c88" ejected="false" advantages="forward_observer::iron_man::pain_resistance" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="11" type="IS Ammo MG - Full" shots="200"/>
+			</location>
+			<location index="4"> Right Arm
+				<slot index="3" type="Empty"/>
+				<slot index="4" type="Empty"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="3" type="Empty"/>
+				<slot index="4" type="Empty"/>
+			</location>
+			<Game id="14"/>
+		</entity>
+
+		<entity chassis="Phoenix Hawk" model="PXH-2" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="true" externalId="b8043b4c-068c-4454-9c91-f46ffb64ae0f" quirks="command_mech::imp_com::ubiquitous_is::ubiquitous_clan" camoCategory="SIRA/" camoFileName="SIRA_Camo_GAMMA.png">
+			<pilot size="1" name="Athena Merik" nick="Oracle" gender="FEMALE" gunnery="4" piloting="3" portraitCat="SIRA/" portraitFile="Athena Merik.jpg" externalId="1c271198-25b5-4396-b94c-07a1f7942d27" ejected="false" advantages="jumping_jack" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="4"> Right Arm
+         <slot index="5" type="Large Laser" quirks="jettison_capable" isDestroyed="false"/>
+         <slot index="6" type="Large Laser" quirks="jettison_capable" isDestroyed="false"/>
+			</location>
+			<Game id="15"/>
+		</entity>
+
+		<entity chassis="Raven" model="RVN-2X" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="true" externalId="d4ac462c-c782-49e7-abdb-6ad922cb1926" quirks="no_arms" camoCategory="SIRA/" camoFileName="SIRA_Camo_GAMMA.png">
+			<pilot size="1" name="Isabelle Odelle" nick="" gender="FEMALE" gunnery="4" piloting="4" portraitCat="SIRA/" portraitFile="Isabelle Odelle.jpg" externalId="65585b6e-9154-44b6-8e9e-7739a8be06d0" ejected="false" advantages="eagle_eyes" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="3"> Left Torso
+				<slot index="3" type="IS Ammo SRM-6" shots="15"/>
+			</location>
+			<location index="5"> Left Arm
+				<slot index="3" type="Empty"/>
+				<slot index="4" type="Empty"/>
+			</location>
+			<Game id="16"/>
+		</entity>
+
+		<entity chassis="Archer" model="ARC-2R" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="true" externalId="c157f8db-6d0f-4d80-99b2-77a829489f05" quirks="battle_fists_la::battle_fists_ra::command_mech::stable::ubiquitous_is" camoCategory="SIRA/" camoFileName="SIRA_Camo_BETA.png">
+			<pilot size="1" name="Molly Rembrant" nick="" gender="FEMALE" gunnery="4" piloting="4" portraitCat="SIRA/" portraitFile="Molly Rembrant.jpg" externalId="278ff857-6fea-4808-8552-329803d63c5d" ejected="false" advantages="cluster_hitter" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="2"> Right Torso
+				<slot index="6" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="7" type="IS Ammo LRM-20" shots="6"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="6" type="IS Ammo LRM-20" shots="6"/>
+				<slot index="7" type="IS Ammo LRM-20" shots="6"/>
+			</location>
+			<Game id="18"/>
+		</entity>
+
+		<entity chassis="JagerMech" model="JM6-DAKKA" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="true" externalId="dda27f28-a46b-4016-be10-1884daa0676e" quirks="anti_air::no_twist" camoCategory="SIRA/" camoFileName="SIRA_Camo_BETA.png">
+			<pilot size="1" name="Jason Ricart" nick="Prince" gender="FEMALE" gunnery="3" piloting="4" portraitCat="SIRA/" portraitFile="Jason Ricart.jpg" externalId="b4e8c8d0-54fd-42c6-996f-5218e4d483a6" ejected="false" advantages="specialist Ballistic::weapon_specialist AC/10" autoeject="false"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="11" type="IS Ammo AC/5" shots="20"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="1" type="IS Ammo AC/5" shots="20"/>
+				<slot index="2" type="IS Ammo AC/5" shots="20"/>
+			</location>
+			<Game id="38"/>
+		</entity>
+
+		<entity chassis="Shadow Hawk" model="SHD-2H" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="true" externalId="f2f1ba12-a55b-4ab7-8d37-b9c7f8994047" quirks="battle_fists_la::battle_fists_ra::imp_life_support::rugged_1::ubiquitous_is::ubiquitous_clan" camoCategory="SIRA/" camoFileName="SIRA_Camo_Elite.png">
+			<pilot size="1" name="Noemi Laporte" nick="Shivan" gender="FEMALE" gunnery="3" piloting="4" portraitCat="SIRA/" portraitFile="Noemi Laporte.png" externalId="099b530d-e78a-4263-be77-2531098c579b" ejected="false" advantages="jumping_jack" autoeject="true"/>
+      The first slot in a location is at index="1".
+			<location index="1"> Center Torso
+				<slot index="12" type="IS Ammo SRM-2" shots="50"/>
+			</location>
+			<location index="2"> Right Torso
+				<slot index="4" type="IS Ammo LRM-5" shots="24"/>
+			</location>
+			<location index="3"> Left Torso
+				<slot index="6" type="IS Ammo AC/5" shots="20"/>
+			</location>
+			<Game id="47"/>
+		</entity>
+
+		<entity chassis="Jenner" model="JR7-F" type="Biped" commander="false" offboard="false" hidden="false" deployment="0" deploymentZone="-1" neverDeployed="true" externalId="bd87acd7-933f-486b-8f6c-305378ffbf9d" quirks="no_arms::no_twist" camoCategory="SIRA/" camoFileName="SIRA_Camo_Standard.png">
+			<pilot size="1" name="Sarah Sarris" nick="Juke" gender="FEMALE" gunnery="4" piloting="2" portraitCat="SIRA/" portraitFile="Sarah Sarris 03.jpg" externalId="db693434-5d2e-4dd4-a0f8-50e83c5ce8e6" ejected="false" advantages="maneuvering_ace" autoeject="true"/>
+			<Game id="48"/>
+		</entity>
+
+</unit>
